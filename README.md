@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is me, myself and I,
+Baldy coding until I die.
 
 <!--
 **silvanmotorca/silvanmotorca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
